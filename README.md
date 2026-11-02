@@ -4,7 +4,7 @@ Welcome to the repository for the SystemVerilog Assertions (SVA) tutorial!
 
 This project demonstrates how to transition from traditional simulation to property-based verification using a classic digital design problem: a Mealy Finite State Machine (FSM) sequence detector.
 
-📖 **Read the full tutorial on Medium:** [Stop Writing Testbenches, Start Writing Properties: An SVA Tutorial](https://medium.com/p/77a4afed0bf3/edit)
+📖 **Read the full tutorial on Medium:** [Stop Writing Testbenches, Start Writing Properties: An SVA Tutorial](https://sharplikekatana.medium.com/stop-writing-testbenches-start-writing-properties-an-sva-tutorial-77a4afed0bf3)
 
 ## 🎯 What You Will Learn
 1. The timing difference between Mealy and Moore FSMs.
